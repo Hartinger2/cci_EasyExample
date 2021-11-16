@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<JVS-ISO-Build BuildTime-Start="20.09.2021 13:46:19" BuildTime-Finished="20.09.2021 13:46:19" Errors="0" Warnings="0">
+<JVS-ISO-Build BuildTime-Start="16.11.2021 08:50:50" BuildTime-Finished="16.11.2021 08:50:50" Errors="0" Warnings="1">
 	<Errors/>
-	<Warnings/>
+	<Warnings>
+		<Warnings Nr="15" Description="ExternalObjectDefinition 38000, object not supported by platform VT Level 3." File=""/>
+	</Warnings>
 </JVS-ISO-Build>
