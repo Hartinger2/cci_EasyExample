@@ -11,6 +11,8 @@
 #define Macro_2                               2
 #define Macro_3                               3
 #define Macro_4                               4
+#define Macro_drauf                           5
+#define Macro_6                               6
 #define DataMask_Home                      1000
 #define Seite_2                            1001
 #define Container_Gesamtzaehler            3000
@@ -25,7 +27,8 @@
 #define Button_Reset_Tageszaehler          6002
 #define Button_MinusMinus                  6003
 #define Button_S2                          6004
-#define Button_6005                        6005
+#define Button_zurueck                     6005
+#define Button_einbl                       6006
 #define InputNumber_Gesamtziel             9000
 #define InputNumber_Tagesziel              9001
 #define OutputString_S2                   11000
@@ -35,6 +38,7 @@
 #define OutputString_Tageszaehler         11004
 #define OutputString_Reset_Tageszaehler   11005
 #define OutputString_zurueck              11006
+#define OutputString_einbl                11007
 #define OutputString_SoftKey_Reset_Gesamtzaehler  11009
 #define OutputString_SoftKey_Reset_Tageszaehler  11010
 #define OutputString_Ziel                 11011
